@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="first w-full flex flex-wrap items-start justify-between gap-6">
         {/* Intro Section */}
         <div className="intro flex flex-col gap-2 w-full lg:w-auto">
-          <h1 className="text-[#4755be] text-2xl lg:text-3xl font-bold text-center lg:text-left">WORENT</h1>
+          <h1 className="text-[#4755be] text-2xl lg:text-3xl font-bold text-center lg:text-left">MORENT</h1>
           <p className="text-gray-500 text-center lg:text-left w-[300px]">
             Our vision is to provide convenience and help increase your sales bussiness.
           </p>
